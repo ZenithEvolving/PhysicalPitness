@@ -1,0 +1,3 @@
+git add .
+git commit -m "Initialized PhysicalPitness AI Hub"
+git push origin main
